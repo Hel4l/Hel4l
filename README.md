@@ -3,9 +3,8 @@
 <img align='right' src="https://github.com/h4zemhel4l/H4zemHel4l/blob/main/image-asset.gif" width="190">
 <h2> Software Enginner </h2>
 
-<h4>
-Computer Science student in 2rd year, I love competitive programming and I would like to participate in ICPC to achieve this I am working on improving my problem-solving skills in codeforces, leetcode and more sites, and I'm fully interested in games & full stack development.
-</h4>
+<h4>Computer Science student in 2rd year, I love competitive programming and I would like to participate in ICPC to achieve this I am working on improving my problem-solving skills in codeforces, leetcode and more sites, and I'm fully interested in games & full stack development.</h4>
+
 ---
 Skills:
 - C, C++ 
