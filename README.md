@@ -12,17 +12,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
 **to contact:**  
-<a href="https://www.instagram.com/h4zemhel4l">
-  <img align="left" alt="Hazem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.linkedin.com/in/H4zemHel4l/">
+  <img align="left" alt="Hazem's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.com/users/1015364718367617106">
   <img align="left" alt="Hazem's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/H4zemHel4l/">
-  <img align="left" alt="Hazem's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/h4zemhel4l">
+  <img align="left" alt="Hazem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+
 <br>
 <br>
 <br>
