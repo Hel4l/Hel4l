@@ -19,11 +19,12 @@
 <a href="https://www.instagram.com/h4zemhel4l">
   <img align="left" alt="Hazem's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.youtube.com/@H4zemHel4l">
-  <img align="left" alt="Hazem's Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" />
-</a>
 <a href="https://discord.com/users/1015364718367617106">
   <img align="left" alt="Hazem's Discord" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<br>
+<a href="https://www.youtube.com/@H4zemHel4l">
+  <img align="left" alt="Hazem's Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" />
 </a>
 <br>
 <br>
