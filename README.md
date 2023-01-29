@@ -1,6 +1,4 @@
-Hey! 👋
-I'm Hazem, a Software Engineer & Competitive Programmer.
-<h2> Hi, I'm Hazem Helal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Hazem Helal! <img src="https://i0.wp.com/i.giphy.com/media/zgduo4kWRRDVK/giphy-downsized.gif?w=770&ssl=1" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner & Competitive Programmer</a><img src="https://i.pinimg.com/originals/3a/d9/2f/3ad92f626f5fc50edfe4f22b78bafbb6.gif" width="30">
 </em></p>
