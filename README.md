@@ -4,7 +4,7 @@
 
 <h4>Computer Science student in 2nd year, I love competitive programming and I would like to participate in ICPC to achieve this I am working on improving my problem-solving skills in codeforces, leetcode and more Websites,<br>and I'm fully interested in full stack & game development.</h4>
 
-<img align='right' src="https://github.com/h4zemhel4l/H4zemHel4l/blob/main/image-asset.gif" width="220">
+<img align='right' src="https://github.com/h4zemhel4l/H4zemHel4l/blob/main/image-asset.gif" width="300">
 
 **languages and tools:**  
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
