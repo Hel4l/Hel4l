@@ -5,12 +5,15 @@
 
 <h4>Computer Science student in 2nd year, I love competitive programming and I would like to participate in ICPC to achieve this I am working on improving my problem-solving skills in codeforces, leetcode and more Websites,<br>and I'm fully interested in full stack & game development.</h4>
 
+
 **languages and tools:**  
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+**to contact:**  
 <a href="https://www.instagram.com/h4zemhel4l">
   <img align="left" alt="Hazem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
