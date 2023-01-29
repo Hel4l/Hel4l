@@ -4,7 +4,7 @@
 <p><em>Software Enginner & Competitive Programmer</a><img src="https://i.pinimg.com/originals/3a/d9/2f/3ad92f626f5fc50edfe4f22b78bafbb6.gif" width="30">
 </em></p>
 
-[![Linkedin: H4zemHel4l](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/H4zemHel4l/)](https://www.linkedin.com/in/H4zemhel4l)
+[![Linkedin: H4zemHel4l](https://img.shields.io/badge/-H4zemHel4l-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/H4zemHel4l/)](https://www.linkedin.com/in/H4zemhel4l)
 [![GitHub Hazem](https://img.shields.io/github/followers/H4zemHel4l?label=follow&style=social)](https://github.com/h4zemhel4l)
 
 
