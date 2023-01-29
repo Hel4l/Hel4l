@@ -7,7 +7,7 @@
 
 ---
 Skills:<br>
-C, C++ <svg class="UctUV d H0 hzzSG" viewBox="0 0 128 24" width="88" height="16" aria-label="4.0 of 5 bubbles"><path d="M 12 0C5.388 0 0 5.388 0 12s5.388 12 12 12 12-5.38 12-12c0-6.612-5.38-12-12-12z" transform=""></path><path d="M 12 0C5.388 0 0 5.388 0 12s5.388 12 12 12 12-5.38 12-12c0-6.612-5.38-12-12-12z" transform="translate(26 0)"></path><path d="M 12 0C5.388 0 0 5.388 0 12s5.388 12 12 12 12-5.38 12-12c0-6.612-5.38-12-12-12z" transform="translate(52 0)"></path><path d="M 12 0C5.388 0 0 5.388 0 12s5.388 12 12 12 12-5.38 12-12c0-6.612-5.38-12-12-12z" transform="translate(78 0)"></path><path d="M 12 0C5.388 0 0 5.388 0 12s5.388 12 12 12 12-5.38 12-12c0-6.612-5.38-12-12-12zm0 2a9.983 9.983 0 019.995 10 10 10 0 01-10 10A10 10 0 012 12 10 10 0 0112 2z" transform="translate(104 0)"></path></svg>
+C, C++ 
 
 ---
 [![Linkedin: H4zemHel4l](https://img.shields.io/badge/-H4zemHel4l-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/H4zemHel4l)](https://www.linkedin.com/in/H4zemhel4l)
