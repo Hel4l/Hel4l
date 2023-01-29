@@ -4,7 +4,7 @@
 <h3><em> Software Enginner </em></h3>
 
 
-A Computer Science student in 2rd year, I love competitive programming and I would like to participate in ICPC to achieve this I am working on improving my problem-solving skills in codeforces, leetcode and more sites, and I'm fully interested in games & full stack development.
+Computer Science student in 2rd year, I love competitive programming and I would like to participate in ICPC to achieve this I am working on improving my problem-solving skills in codeforces, leetcode and more sites, and I'm fully interested in games & full stack development.
 
 ---
 Skills:
