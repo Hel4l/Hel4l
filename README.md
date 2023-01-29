@@ -1,7 +1,7 @@
 <h2> Hi, I'm Hazem Helal! 
 <img src="https://media0.giphy.com/media/LTGj1ANVfZwkESj0UN/200w.gif?cid=82a1493babfjoe3jghjl6yyzmiybskw7u1tpd68t53tjhpbe&rid=200w.gif&ct=g" width="20"></h2>
-<img align='right' src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" width="230">
-<p><em>Software Enginner & Competitive Programmer</a><img src="https://i.pinimg.com/originals/3a/d9/2f/3ad92f626f5fc50edfe4f22b78bafbb6.gif" width="30">
+<img align='right' src="https://github.com/h4zemhel4l/H4zemHel4l/blob/main/image-asset.gif" width="230">
+<p><em>Software Enginner & Competitive Programmer</a><img src="https://i.pinimg.com/originals/3a/d9/2f/3ad92f626f5fc50edfe4f22b78bafbb6.gif" width="15">
 </em></p>
 
 [![Linkedin: H4zemHel4l](https://img.shields.io/badge/-H4zemHel4l-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/H4zemHel4l/)](https://www.linkedin.com/in/H4zemhel4l)
