@@ -7,7 +7,7 @@
 
 ---
 Skills:
-- C, C++ 
+-C, C++ 
 
 ---
 [![Linkedin: H4zemHel4l](https://img.shields.io/badge/-H4zemHel4l-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/H4zemHel4l)](https://www.linkedin.com/in/H4zemhel4l)
