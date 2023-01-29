@@ -14,7 +14,7 @@
 
 <br>
 <a href="https://www.youtube.com/@H4zemHel4l">
-  <img align="left" alt="Hazem's Youtube" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" />
+  <img align="left" alt="Hazem's Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" />
 </a>
 <a href="https://www.linkedin.com/in/H4zemHel4l/">
   <img align="left" alt="Hazem's LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
