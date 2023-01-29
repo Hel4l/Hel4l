@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hazem Helal! <img src="https://i0.wp.com/i.giphy.com/media/zgduo4kWRRDVK/giphy-downsized.gif?w=770&ssl=1" width="50"></h2>
+<h2> Hi, I'm Hazem Helal! <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner & Competitive Programmer</a><img src="https://i.pinimg.com/originals/3a/d9/2f/3ad92f626f5fc50edfe4f22b78bafbb6.gif" width="30">
 </em></p>
