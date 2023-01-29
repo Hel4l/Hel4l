@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/H4zemHel4l/">
   <img align="left" alt="Hazem's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
