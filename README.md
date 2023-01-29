@@ -14,13 +14,13 @@
 
 **To communicate:**  
 <a href="https://www.linkedin.com/in/H4zemHel4l/">
-  <img align="left" alt="Hazem's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hazem's LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/h4zemhel4l">
-  <img align="left" alt="Hazem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Hazem's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.com/users/1015364718367617106">
-  <img align="left" alt="Hazem's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Hazem's Discord" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <br>
 <br>
